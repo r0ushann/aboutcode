@@ -5,10 +5,10 @@
 AboutCode is a suite of tools to uncover data ... about software and code:
 
  - Where does it come from?
- - What is its license?
- - Is it secure, maintained, well coded?
+ - Which licenses do we have?
+ - Is it secure, maintained and well coded?
 
-These are important questions when there are millions of free and open source software components available on the web.
+These are some of the important questions asked when there are millions of free and open source software components available on the web.
 
 ### Documentation Build Status
 
@@ -32,7 +32,7 @@ If you want to get in touch with the team with issues other than documentation, 
 
 ### Projects
 
-Each AboutCode project has its own repository:
+Each project at  AboutCode has its own repository:
 
 - **[ScanCode Toolkit](https://github.com/nexB/scancode-toolkit)**: This is a set of code scanning tools to detect the origin and license of code and dependencies. ScanCode now uses a plug-in architecture to run a series of scan-related tools in one process flow. This is the most popular projects and is used by 100's of software teams. https://github.com/nexB/scancode-toolkit . The lead maintainer is @pombredanne
 
